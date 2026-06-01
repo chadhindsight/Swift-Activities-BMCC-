@@ -4,7 +4,7 @@ struct ContentView: View {
     var body: some View {
         HStack(spacing: 0) {
             
-            // MARK: - Spine
+         
             RoundedRectangle(cornerRadius: 6)
                 .fill(Color.blue)
                 .frame(width: 30, height: 220)
